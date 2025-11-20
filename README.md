@@ -9,7 +9,9 @@ This Hub is designed to be **simple**, **powerful**, and **constantly evolving**
 ## 💻 All the Devs who work on this
 
 James (@jamessnewest_)
+
 zzzz (@2qp0)
+
 Pablo (@pablo303870)
 
 ## 🔄 Updates
